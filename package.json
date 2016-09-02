@@ -1,5 +1,5 @@
 {
-  "name": "@vimeo/player",
+  "name": "ainojs-vimeoplayer",
   "version": "1.0.5",
   "description": "Interact with and control an embedded Vimeo Player.",
   "license": "MIT",
